@@ -4,11 +4,11 @@ layout: default
 
 # [](#header-1)David Smith (Ducks).
 
-[Link to Blog](/blog.md).
+[Link to Blog](blog.md).
 
 ## [](#header-2)Blog:
 
-The 'Blog' can be found [Here](/blog.md). Expect the first post there to be about Encrypted Messaging. Feel free to ask me to write about something on Twitter i'll happily comply, not sure why you'd want me out of all people to write something, but yeah okay.
+The 'Blog' can be found [Here](blog.md). Expect the first post there to be about Encrypted Messaging. Feel free to ask me to write about something on Twitter i'll happily comply, not sure why you'd want me out of all people to write something, but yeah okay.
 
 
 
