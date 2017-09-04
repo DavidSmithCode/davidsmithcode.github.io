@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## David Smith (Ducks)
 
-You can use the [editor on GitHub](https://github.com/DavidSmithCode/davidsmithcode.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to the site, wether or not it'll be updated with posts regularly is unknown to me, depends if there's anything interesting to write about. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Contact - Just DM me on Twitter @ me if you can't and i'll DM you. Happy to talk over Ricochet, XMPP and or Email. Discussions and questions are welcome.
 
-### Markdown
+### Blog
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My 'Blog' can be found [here] (https://ihackedyour.webcam/blog/). 
 
 ```markdown
 Syntax highlighted code block
