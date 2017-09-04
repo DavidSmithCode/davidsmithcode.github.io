@@ -6,7 +6,6 @@ Contact - Just DM me on Twitter @ me if you can't and i'll DM you. Happy to talk
 
 ### Blog
 
-My 'Blog' can be found [Here](http://ihackedyour.webcam/). 
 
 ```markdown
 Syntax highlighted code block
